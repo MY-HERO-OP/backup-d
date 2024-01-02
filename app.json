@@ -11,7 +11,7 @@
         "save"
     ],
     "website": "https://t.me/EDM115bots",
-    "repository": "https://github.com/EDM115/telegram-backup-dump",
+    "repository": "https://github.com/MY-HERO-OP/backup-d",
     "success_url": "https://t.me/EDM115bots",
     "env": {
         "API_ID": {
@@ -40,7 +40,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     },
     "stack": "container"
